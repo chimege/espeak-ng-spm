@@ -5,5 +5,6 @@
 #define USE_LIBSONIC 1
 #define USE_MBROLA 0
 #define USE_SPEECHPLAYER 1
+#define HAVE_UNISTD_H 0
 
 #define PACKAGE_VERSION "1.52-dev"
