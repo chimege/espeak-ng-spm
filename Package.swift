@@ -8,6 +8,7 @@ let package = Package(
   products: [
     .library(name: "libespeak-ng", targets: ["libespeak-ng"]),
     .library(name: "espeak-ng-data", targets: ["data"]),
+    .library(name: "libsonic", targets: ["libsonic"]),
   ],
   targets: [
     .target(
